@@ -11,9 +11,10 @@
 </template>
 
 <script setup>
-    export default {
-const { product } = defineProps(['product'])
-    }
+
+
+ const { product } = defineProps(['product'])
+
 </script>
 
 <style scoped>
