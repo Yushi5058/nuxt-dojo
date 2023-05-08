@@ -30,9 +30,10 @@
 
 <script setup>
 
+const { product } = defineProps(['product'])
+
 </script>
 
-const { product } = defineProps(['product'])
 
 <style scoped>
 
